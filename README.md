@@ -40,15 +40,15 @@
 ---
 
 ## 🌐 Socials
-[![Instagram](https://img.shields.io/badge/Instagram-red)](https://instagram.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://linkedin.com/)
-[![Email](https://img.shields.io/badge/Email-white)](mailto:yourmail@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-red)](https://www.instagram.com/_d_i_n_e_s_hh_/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](www.linkedin.com/in/dinesh-s-8a0a96291)
+[![Email](https://img.shields.io/badge/Email-white)](dineshsm8885@gmail.com)
 
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dinesh10S&show_icons=true&theme=dark)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dinesh10S&theme=dark)
 
 
