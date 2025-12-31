@@ -9,7 +9,7 @@
 - 🎓 **BE in Computer Science Engineering** (Graduating 2027)
 - 🧑‍💻 **3rd Year Engineering Student**
 - 💡 Interested in **Software Development, Web Development & Backend**
-- 🌱 Currently learning **Full Stack Development (Frontend + Backend)**
+- 🌱 Currently learning **Full Stack Development **
 - 🛠️ Love building **real-world projects**
 - 🎯 **Goal:** To become a skilled software developer and build impactful applications
 
@@ -41,8 +41,8 @@
 
 ## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-red)](https://www.instagram.com/_d_i_n_e_s_hh_/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](www.linkedin.com/in/dinesh-s-8a0a96291)
-[![Email](https://img.shields.io/badge/Email-white)](dineshsm8885@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/dinesh-s-8a0a96291/)
+[![Email](https://img.shields.io/badge/Email-white)](mailto:dineshsm8885@gmail.com)
 
 ---
 
