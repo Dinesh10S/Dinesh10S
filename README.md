@@ -39,7 +39,7 @@
 
 ---
 
-## 🌐 Socials
+## 🌐 Connect With Me
 [![Instagram](https://img.shields.io/badge/Instagram-red)](https://www.instagram.com/_d_i_n_e_s_hh_/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/dinesh-s-8a0a96291/)
 [![Email](https://img.shields.io/badge/Email-white)](mailto:dineshsm8885@gmail.com)
