@@ -9,7 +9,7 @@
 - 🎓 **BE in Computer Science Engineering** (Graduating 2027)
 - 🧑‍💻 **3rd Year Engineering Student**
 - 💡 Interested in **Software Development, Web Development & Backend**
-- 🌱 Currently learning **Full Stack Development **
+- 🌱 Currently learning **Full Stack Development**
 - 🛠️ Love building **real-world projects**
 - 🎯 **Goal:** To become a skilled software developer and build impactful applications
 
